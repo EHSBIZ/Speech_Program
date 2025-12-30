@@ -4,7 +4,7 @@ for start work with this install requirements by ```pip install -r requirements`
 <br/>
 or you can use it ```pip install pyttsx3```
 
-*then run speech_program.py and enjoy it :)*
+then run speech_program.py and enjoy it!
 
 we have 3 commands you can use these.
 
